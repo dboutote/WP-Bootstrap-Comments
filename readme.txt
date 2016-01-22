@@ -66,7 +66,7 @@ To use Bootstrap's native media list styling change `<ol class="comment-list">` 
 
 = Where can I get support? =
 
-The plugin's official page: https://wordpress.org/tags/wp-term-icons/
+The plugin's official page: http://darrinb.com/plugins/wp-bootstrap-comments
 
 = Where can I find documentation? =
 
