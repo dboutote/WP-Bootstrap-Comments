@@ -51,3 +51,9 @@ To use Bootstrap's native media list styling change `<ol class="comment-list">` 
     ?>
 </ul><!-- .media-list -->
 ```
+
+# Frequently Asked Question
+
+### Where can I find additional additional documentation?
+
+http://darrinb.com/wp-bootstrap-comments/
